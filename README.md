@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukhammad Makhsudov
 
-## 💼 Backend Developer | Mobile Developer | Problem Solver
+## 💼 Backend Developer | Problem Solver
 
 I'm a versatile software engineer with experience in building robust backend systems, scalable web APIs, and cross-platform mobile applications. 
 My expertise lies in creating efficient, maintainable, and secure software for high-load services and financial systems.
@@ -10,18 +10,17 @@ My expertise lies in creating efficient, maintainable, and secure software for h
 ## 🧠 What I Do
 
 - 💻 **Backend Development**: ASP.NET Core (WebAPI), Golang, RESTful services  
-- 📱 **Mobile Development**: Flutter (iOS & Android)  
 - 🧰 **Databases**: PostgreSQL, MySQL, Entity Framework Core  
 - ⚙️ **Architecture**: Microservices, Clean Architecture, BLoC (Flutter), Client-Server  
 - 💬 **Messaging & Queues**: RabbitMQ, Kafka  
 - 🔐 **Security**: AES Encryption, Authentication, Role-based Access  
-- 📦 **DevOps Basics**: Docker, Linux (Ubuntu/CentOS), Nginx
+- 📦 **DevOps Basics**: Linux (Ubuntu/CentOS), Nginx
 
 ---
 
 ## 🔨 Projects Highlights
 
-- 🏦 **Esxata Online** – Electronic wallet for a bank (Esxata Bank)
+- 🏦 **Eskhata Online** – Electronic wallet for a bank (Eskhata Bank)
 - 📊 **Finance Tracker App** – Local+Server sync, dynamic categories, BLoC architecture, offline queue
 - 🏥 **Queue Management System** – Client-priority service for banks & pharmacies
 - 📦 **Point of Sale System** – Inventory, movement logs, reporting (WinForms/.NET)
