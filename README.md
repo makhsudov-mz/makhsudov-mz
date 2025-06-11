@@ -11,7 +11,7 @@ My expertise lies in creating efficient, maintainable, and secure software for h
 
 - 💻 **Backend Development**: ASP.NET Core (WebAPI), Golang, RESTful services  
 - 🧰 **Databases**: PostgreSQL, MySQL, Entity Framework Core  
-- ⚙️ **Architecture**: Microservices, Clean Architecture, BLoC (Flutter), Client-Server  
+- ⚙️ **Architecture**: Microservices, Clean Architecture, Client-Server  
 - 💬 **Messaging & Queues**: RabbitMQ, Kafka  
 - 🔐 **Security**: AES Encryption, Authentication, Role-based Access  
 - 📦 **DevOps Basics**: Linux (Ubuntu/CentOS), Nginx
@@ -37,7 +37,7 @@ My expertise lies in creating efficient, maintainable, and secure software for h
 
 ## 📫 Let's Connect
 
-- Email: `Mukhammad9903@gmail.com`  
+- Email: `Mukhammad1.mz@gmail.com`  
 - Telegram: [@Mukhammad_mz](https://t.me/Mukhammad_mz1)  
 - GitHub: [makhsudov-mz](https://github.com/makhsudov-mz)
 
