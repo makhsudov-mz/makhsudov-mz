@@ -2,7 +2,7 @@
 
 ## 💼 Backend Developer | Problem Solver
 
-I'm a versatile software engineer with experience in building robust backend systems, scalable web APIs, and cross-platform mobile applications. 
+I'm a versatile software engineer with experience in building robust backend systems, scalable web APIs. 
 My expertise lies in creating efficient, maintainable, and secure software for high-load services and financial systems.
 
 ---
