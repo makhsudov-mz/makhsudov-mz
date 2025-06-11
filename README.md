@@ -37,7 +37,7 @@ My expertise lies in creating efficient, maintainable, and secure software for h
 
 ## 📫 Let's Connect
 
-- Email: `Mukhammad1.mz@gmail.com`  
+- Email: [Mukhammad1.mz@gmail.com](Mukhammad1.mz@gmail.com)  
 - Telegram: [@Mukhammad_mz](https://t.me/Mukhammad_mz1)  
 - GitHub: [makhsudov-mz](https://github.com/makhsudov-mz)
 
